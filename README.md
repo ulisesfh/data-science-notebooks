@@ -1,2 +1,2 @@
 # data-science-notebooks
-Notebooks made in ML class projects and homeworks
+Jupyter notebooks from university coursework and personal practice covering data cleaning, preprocessing, and basic ML model evaluation.
